@@ -2,11 +2,10 @@
 layout: post
 title: "This post demonstrates post content styles"
 categories: junk
-author: Fernando Vinícius Morlin
+author: "Bart Simpson"
 meta: "Springfield"
 ---
-* TOC
-{:toc}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
 ## Some great heading (h2)
@@ -77,6 +76,8 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 2. Second item, dawg
 3. Third item, what what?!
 4. Fourth item, fo sheezy my neezy
+
+
 
 ## Headings are cool! (h2)
 

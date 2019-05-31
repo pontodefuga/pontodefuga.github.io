@@ -70,7 +70,6 @@ figure > img {
 
 figcaption {
   font-size: $small-font-size;
-  text-align: center;
 }
 
 
@@ -104,25 +103,23 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  $link-color: #004080;
-  color: $link-color;
+  color: $brand-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($link-color, 10%);
+    color: darken($brand-color, 15%);
   }
 
   &:hover {
-    background-color: black;
-    color: white;
-    text-decoration: none;
+    color: $text-color;
+    text-decoration: underline;
   }
 
   .social-media-list &:hover {
     text-decoration: none;
 
     .username {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 }
