@@ -8,9 +8,10 @@ mathjax: true
 * TOC
 {:toc}
 
-## Glossário (h2)
+[Git download][download-git]
+## Glossário
 
-## Configurar o username
+## Configurar o username para todo repositório no computador
 1. Abra o Git Bash (terminal)
 2. Configure o Git username:
 {% highlight ruby %}
@@ -22,3 +23,5 @@ $ git config --global user.name
 > Mr Robot
 {% endhighlight %}
 ## Novo repositório (h2)
+
+[download-git]: https://git-scm.com/download
