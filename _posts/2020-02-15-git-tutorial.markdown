@@ -9,10 +9,13 @@ mathjax: true
 {:toc}
 
 [Git download][download-git]
-## Glossário
--commit: tira uma foto
 
-## Fluxo básico
+Criar um novo repositório **
+{% highlight Git %}
+$ git init
+{% endhighlight %}
+
+### Fluxo básico
 1. Criar um repositório
 2. Alterar arquivos
 3. Commitar
@@ -22,8 +25,8 @@ mathjax: true
 git init  
 {%endhighlight%}
 
-##Criar um novo repositório
-## Configurar o username para todo repositório no computador
+### Criar um novo repositório
+### Configurar o username para todo repositório no computador
 1. Abra o Git Bash (terminal)
 2. Configure o Git username:
 {% highlight Git %}
