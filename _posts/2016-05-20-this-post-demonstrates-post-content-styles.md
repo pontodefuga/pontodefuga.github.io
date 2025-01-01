@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Esta post demonstrates post content styles"
 categories: junk
 author: Fernando Vinícius Morlin
 meta: "Springfield"
